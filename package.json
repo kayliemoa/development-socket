@@ -9,11 +9,10 @@
   },
    "repository": {
     "type": "git",
-    "url": "https://github.com/BloomBCIT/development.git"
+    "url": "https://git.heroku.com/bloombcit-socket.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/BloomBCIT/development/README.md",
   "dependencies": {
     "express": "^4.16.2",
     "socket.io": "^2.0.4"
